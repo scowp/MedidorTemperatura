@@ -1,4 +1,4 @@
-![image](https://github.com/scowp/MedidorTemperatura/assets/100418456/fa915d58-9829-4152-a065-b09aa8c80690)# MedidorTemperatura
+![image](https://github.com/scowp/MedidorTemperatura/assets/100418456/fa915d58-9829-4152-a065-b09aa8c80690)
 
 # Documentação do Projeto de Medição de Temperatura com Arduino e LM35
 
